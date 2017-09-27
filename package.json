@@ -1,0 +1,20 @@
+{
+  "name": "import-cost",
+  "main": "./lib/import-cost",
+  "version": "0.0.1",
+  "description": "lists out your import. Similiar to VS import cost",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "import-cost:tail"
+  },
+  "repository": "https://github.com/adityaanandmc/import-cost",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "node-source-walk": "^3.3.0",
+    "read-pkg-up": "^2.0.0"
+  }
+}

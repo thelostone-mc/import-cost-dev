@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "tail import-cost",
+        "command": "import-cost:tail"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "import-cost",
+          "submenu": [
+            {
+              "label": "tail",
+              "command": "import-cost:tail"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
