@@ -1,4 +1,4 @@
-# import-cost package
+# import-cost-dev package
 
 Lets you know how heavy your imports are!
 like VSCodes [import-cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
@@ -11,10 +11,10 @@ import-cost is triggered when active panel is switched / saved and displaying th
 
 
 ### Demo
-![import-cost demo](./import-cost.gif)
+![import-cost-dev demo](./import-cost-dev.gif)
 
 ### Installation
 
 ```
-apm install import-cost
+apm install import-cost-dev
 ```

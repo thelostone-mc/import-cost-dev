@@ -1,10 +1,10 @@
 {
-  "name": "import-cost",
+  "name": "import-cost-dev",
   "main": "./lib/import-cost",
-  "version": "0.1.1",
+  "version": "0.0.1",
   "description": "lists out your import. Similiar to VS import cost",
   "keywords": [],
-  "repository": "https://github.com/adityaanandmc/import-cost",
+  "repository": "https://github.com/adityaanandmc/import-cost-dev",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
