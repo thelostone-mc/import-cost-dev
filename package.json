@@ -1,7 +1,7 @@
 {
   "name": "import-cost-dev",
   "main": "./lib/import-cost",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "lists out your import. Similiar to VS import cost",
   "keywords": [],
   "repository": "https://github.com/adityaanandmc/import-cost-dev",
