@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "lists out your import. Similiar to VS import cost",
   "keywords": [],
-  "repository": "https://github.com/adityaanandmc/import-cost-dev",
+  "repository": "https://github.com/thelostone-mc/import-cost-dev",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
